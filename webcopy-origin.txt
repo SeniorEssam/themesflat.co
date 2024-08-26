@@ -1,0 +1,692 @@
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tDMPKzSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiEyp8kv8JHgFVrJJbecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtA.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtA.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucXtAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/account-freeze.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\account-freeze.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/blog-detail.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\blog-detail.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/buy-quantity.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\buy-quantity.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/change-name.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\change-name.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/change-password.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\change-password.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/choose-bank.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\choose-bank.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/choose-cryptocurrency.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\choose-cryptocurrency.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/choose-payment.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\choose-payment.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/cryptex-rating.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\cryptex-rating.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/css/bootstrap.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/css/styles.css
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\css\styles.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/css/swiper-bundle.min.css
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/earn.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\earn.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/exchange-market.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\exchange-market.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/exchange-trade-approve.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\exchange-trade-approve.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/exchange-trade.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\exchange-trade.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/font-icons.css
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\font-icons.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/fonts.css
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\fonts.css
+Content Type: text/css
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/icomoon.eot?u96gzp
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/icomoon.svg?u96gzp
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/icomoon.ttf?u96gzp
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/fonts/icomoon.woff?u96gzp
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\fonts\icomoon.woff
+Content Type: application/x-font-woff
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/home-search.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\home-search.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/home.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\home.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt10.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt10.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt11.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt11.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt12.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt12.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt13.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt13.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt14.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt14.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt15.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt15.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt16.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt16.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt17.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt17.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt18.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt18.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt19.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt19.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt20.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt20.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt21.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt21.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt22.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt22.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt23.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt23.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt24.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt24.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt25.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt25.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt26.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt26.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt27.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt27.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt28.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt28.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt7.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt8.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt8.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/avt/avt9.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\avt\avt9.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/banner/banner-qrcode.png
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\banner\banner-qrcode.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/banner/banner2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\banner\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/banner-blog.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\banner-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/blog/blog6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\blog\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card1.png
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card1.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card10.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card10.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card2.png
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card2.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card7.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/card/card9.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\card\card9.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-10.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-10.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-11.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-11.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-12.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-12.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-13.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-13.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-14.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-14.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-15.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-15.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-2.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-2.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-4.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-4.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-5.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-5.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-6.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-6.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-7.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-7.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-8.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-8.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/coin-9.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\coin-9.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/market-1.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\market-1.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/coin/market-3.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\coin\market-3.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/logo/144.png
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\logo\144.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/logo/48.png
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\logo\48.png
+Content Type: image/png
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/logo/apple.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\logo\apple.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/logo/fb.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\logo\fb.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/images/logo/google.jpg
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\images\logo\google.jpg
+Content Type: image/jpeg
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/apexcharts.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\apexcharts.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/bootstrap.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/carousel.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\carousel.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/chart.bundle.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\chart.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/count-down.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\count-down.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/detail-chart.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\detail-chart.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/jquery.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/line-chart.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\line-chart.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/main.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\main.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/js/swiper-bundle.min.js
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/list-blog.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\list-blog.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/log-in.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\log-in.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/option.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\option.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/payment-confirm.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\payment-confirm.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/profile.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\profile.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/qr-code.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\qr-code.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/qr-code2.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\qr-code2.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/recharge.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\recharge.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/register.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\register.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/reset-pass.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\reset-pass.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/security-center.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\security-center.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/sell-quantity.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\sell-quantity.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/tell-us-more.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\tell-us-more.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/user-info.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\user-info.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/verification-choose-type.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\verification-choose-type.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/verification.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\verification.html
+Content Type: text/html
+
+Uri: https://themesflat.co/html/cointexcrypto/cointex/wallet.html
+File Name: C:\Users\essam\Desktop\siteTracker\themesflat.co\html\cointexcrypto\cointex\wallet.html
+Content Type: text/html
+

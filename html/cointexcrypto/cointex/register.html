@@ -35,22 +35,32 @@
         <div class="tf-container">
             <form action="otp.html" class="mt-32 mb-16">
                 <h2 class="text-center">Register Cointex</h2>
-                <fieldset class="mt-40">
+                <fieldset class=" mt-40"> 
+                    <div class="picture-container">
+                        <p class="mb-8 text-small">Choose Picture</p>
+                        <div class="picture">
+                          <img src="images/avt/avt12.jpg" class="picture-src" id="wizardPicturePreview" title=""/>
+                          <input type="file" name="file" id="wizard-picture" aria-invalid="false" class="valid" accept="image/*" />
+                        </div>
+                        
+                      </div>
+                </fieldset>
+                <fieldset class="mt-12">
                     <label class="label-ip">
                         <p class="mb-8 text-small">Name</p>
-                        <input type="text" value="Tony Nguyen">
+                        <input type="text" value="">
                     </label>
                 </fieldset>
                 <fieldset class="mt-16">
                     <label class="label-ip">
                         <p class="mb-8 text-small">Email</p>
-                        <input type="text" placeholder="Example@gmail">
+                        <input type="email" placeholder="Example@gmail">
                     </label>
                 </fieldset>
                 <fieldset class="mt-16">
                     <label class="label-ip">
                         <p class="mb-8 text-small">Phone Number</p>
-                        <input type="text" placeholder="Phone number">
+                        <input type="tel" placeholder="Phone number">
                     </label>
                 </fieldset>
                 <fieldset class="mt-16">
@@ -69,7 +79,7 @@
                     <label class="label-ip">
                         <p class="mb-8 text-small">Confirm Password</p>
                         <div class="box-auth-pass">
-                            <input type="password" required placeholder="confirm password" class="password-field2" value="12345">
+                            <input type="password" required placeholder="confirm password" class="password-field2" value="">
                             <span class="show-pass2">
                                 <i class="icon-view"></i>
                                 <i class="icon-view-hide"></i>
@@ -77,6 +87,7 @@
                         </div>
                     </label>
                 </fieldset>
+                
                 <fieldset class="group-cb cb-signup mt-12">
                     <input type="checkbox" class="tf-checkbox" id="cb-ip" checked> 
                     <label for="cb-ip">I agree to <span class="text-white">Terms and condition</span></label>
@@ -96,3 +107,19 @@
     
 </body>
 </html>
+<script>
+    // Prepare the preview for profile picture
+$("#wizard-picture").change(function() {
+  readURL(this);
+}); 
+function readURL(input) {
+  if (input.files && input.files[0]) {
+    var reader = new FileReader();
+
+    reader.onload = function(e) {
+      $('#wizardPicturePreview').attr('src', e.target.result).fadeIn('slow');
+    }
+    reader.readAsDataURL(input.files[0]);
+  }
+}
+</script>

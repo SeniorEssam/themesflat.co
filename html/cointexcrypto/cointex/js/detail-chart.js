@@ -16,7 +16,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,
@@ -75,7 +75,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,
@@ -134,7 +134,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,
@@ -193,7 +193,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,
@@ -252,7 +252,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,
@@ -311,7 +311,7 @@
               ],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "area",
             Width: 390,

@@ -66,7 +66,7 @@
               data: [20, 50, 7, 100, -8, 80, 100],
             },
           ],
-          colors: ["#25C866"],
+          colors: ["#f4a641"],
           chart: {
             type: "line",
             maxWidth: 96,

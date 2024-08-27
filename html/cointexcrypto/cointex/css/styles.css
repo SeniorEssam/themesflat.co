@@ -1,5 +1,5 @@
 :root {
-  --primary: #25c866;
+  --primary: #f4a641;
   --interactive: #0076f3;
   --white: #fff;
   --secondary: #7e8088;
@@ -275,9 +275,22 @@ a {
 a:hover, a:focus, a.active {
   text-decoration: none;
   outline: none;
+  color: var(--primary);
+}
+h1:hover,
+h2:hover,
+h3:hover,
+h4:hover,
+h5:hover,
+h6:hover,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover  {
   color: var(--white);
 }
-
 ul,
 ol {
   padding: 0;
@@ -324,7 +337,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--white);
+  color: var(--primary);
   font-weight: 600;
 }
 h1 a,
@@ -333,7 +346,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  color: var(--white);
+  color: var(--primary);
 }
 
 h5 {
@@ -550,7 +563,7 @@ select {
 }
 
 .text-white {
-  color: var(--white) !important;
+  color: var(--primary) !important;
 }
 
 .text-red {
@@ -900,7 +913,18 @@ select {
   grid-template-columns: repeat(5, 1fr);
   justify-content: space-between;
 }
-
+@media(max-width:360px) {
+  .grid-3,.grid-4,.grid-5 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media(max-width:245px) {
+  .grid-3,.grid-2,.grid-4,.grid-5 {
+    display: grid;
+    grid-template-columns: 1fr ;
+  }
+}
 .gap-2 {
   gap: 2px !important;
 }
@@ -978,23 +1002,23 @@ select {
 .icon-noti,
 .icon-question,
 .icon-gift {
-  color: var(--white);
+  color: var(--primary);
   font-size: 24px;
 }
 
 .icon-select-down {
-  color: var(--white);
+  color: var(--primary);
   font-size: 12px;
 }
 
 .icon-left-btn,
 .icon-arr-right {
-  color: var(--white);
+  color: var(--primary);
   font-size: 14px;
 }
 
 .icon-barcode {
-  color: var(--white);
+  color: var(--primary);
   font-size: 32px;
 }
 
@@ -1174,7 +1198,7 @@ select {
   background-color: var(--menuDark);
 }
 .tabs-line .active {
-  background-color: var(--white);
+  background-color: var(--primary);
 }
 
 .menu-tab-v3 {
@@ -1192,7 +1216,7 @@ select {
   color: var(--secondary);
 }
 .menu-tab-v3 .nav-link.active {
-  color: var(--white);
+  color: var(--primary);
 }
 
 .tf-btn {
@@ -1287,7 +1311,7 @@ select {
   line-height: 13px;
 }
 .coin-btn.increase {
-  background-color: var(--primary);
+  background-color: var(--backdrop);
 }
 .coin-btn.decrease {
   background-color: var(--red);
@@ -1572,7 +1596,7 @@ input[type=text].ip-style2 {
   opacity: 0.5;
 }
 .dots-tes .swiper-pagination-bullet-active {
-  background-color: #25c866;
+  background-color: #121923;
   opacity: 1;
   width: 28px;
   border-radius: 30px;
@@ -1926,7 +1950,7 @@ input[type=text].ip-style2 {
   opacity: 0.4;
 }
 .coin-box .blur.bg2 {
-  background-color: #25C866;
+  background-color: #121923;
   opacity: 0.4;
 }
 .coin-box .blur.bg3 {
@@ -2287,7 +2311,6 @@ input[type=text].ip-style2 {
   border-radius: 60px;
 }
 .tf-list-item .icon {
-  color: var(--white);
   font-size: 32px;
 }
 
@@ -2818,7 +2841,7 @@ input[type=text].ip-style2 {
   position: relative;
   width: 100%;
   height: 100%;
-  background: #25c866;
+  background: #121923;
   position: fixed;
   top: 0;
   bottom: 0;
@@ -2840,7 +2863,7 @@ input[type=text].ip-style2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #25c866;
+  background: #121923;
   background-repeat: no-repeat;
   background-position: center center;
   animation: preload 1s linear infinite alternate;
@@ -2875,7 +2898,7 @@ input[type=text].ip-style2 {
   }
 }
 .theme-light {
-  --primary: #25c866;
+  --primary: #f4a641;
   --interactive: #0076f3;
   --white: #fff;
   --secondary: #7e8088;
@@ -2898,3 +2921,39 @@ input[type=text].ip-style2 {
 }
 
 /*# sourceMappingURL=styles.css.map */
+.picture-container {
+  position: relative;
+  cursor: pointer;
+  text-align: center;
+}
+.picture {
+  width: 106px;
+  height: 106px;
+  background-color: #999999;
+  border: 4px solid #CCCCCC;
+  color: #FFFFFF;
+  border-radius: 50%;
+  margin: 5px auto;
+  overflow: hidden;
+  transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+}
+.picture-src {
+  width: 100%;
+height: 100%;
+}
+
+.picture:hover {
+  border-color: var(--primary);
+}
+
+.picture input[type="file"] {
+  cursor: pointer;
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0 !important;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

@@ -751,49 +751,44 @@
         </div>
         <style>
             .footer {
-                background: #0d1117;
                 box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
-                box-sizing: border-box;
                 width: 100%;
                 text-align: left;
                 font: bold 16px sans-serif;
-                padding: 55px 50px;
                 color: #fff !important;
             }
 
-            .footer .footer-left,
-            .footer .footer-center,
-            .footer .footer-right {
+            .custom-footer .custom-footer-left,
+            .custom-footer .custom-footer-center,
+            .custom-footer .custom-footer-right {
                 display: inline-block;
                 vertical-align: top;
             }
 
-            /* Footer left */
+            /* custom-footer left */
 
-            .footer .footer-left {
+            .custom-footer .custom-footer-left {
                 width: 40%;
             }
 
 
-            .footer h3 {
-                color: #ffffff;
+            .custom-footer h3 {
                 font: normal 36px 'Open Sans', cursive;
                 margin: 0;
             }
 
-            .footer h3 span {
+            .custom-footer h3 span {
                 color: teal;
             }
 
-            /* Footer links */
+            /* custom-footer links */
 
-            .footer .footer-links {
-                color: #ffffff;
+            .custom-footer .custom-footer-links {
                 margin: 20px 0 12px;
                 padding: 0;
             }
 
-            .footer .footer-links a {
+            .custom-footer .custom-footer-links a {
                 display: inline-block;
                 line-height: 1.8;
                 font-weight: 400;
@@ -801,22 +796,20 @@
                 color: inherit;
             }
 
-            .footer .footer-name {
+            .custom-footer .custom-footer-name {
                 color: teal;
                 font-size: 14px;
                 font-weight: normal;
                 margin: 0;
             }
 
-            /* Footer Center */
+            /* custom-footer Center */
 
-            .footer .footer-center {
+            .custom-footer .custom-footer-center {
                 width: 35%;
             }
 
-            .footer .footer-center i {
-                background-color: #33383b;
-                color: #ffffff;
+            .custom-footer .custom-footer-center i {
                 font-size: 25px;
                 width: 38px;
                 height: 38px;
@@ -827,53 +820,51 @@
                 vertical-align: middle;
             }
 
-            .footer .footer-center i.fa-envelope {
+            .custom-footer .custom-footer-center i.fa-envelope {
                 font-size: 17px;
                 line-height: 38px;
             }
 
-            .footer .footer-center p {
+            .custom-footer .custom-footer-center p {
                 display: inline-block;
-                color: #ffffff;
                 font-weight: 400;
                 vertical-align: middle;
                 margin: 0;
             }
 
-            .footer .footer-center p span {
+            .custom-footer .custom-footer-center p span {
                 display: block;
                 font-weight: normal;
                 font-size: 14px;
                 line-height: 2;
             }
 
-            .footer .footer-center p a {
+            .custom-footer .custom-footer-center p a {
                 color: teal;
                 text-decoration: none;
                 ;
             }
 
-            .footer .footer-links a:before {
+            .custom-footer .custom-footer-links a:before {
                 content: "|";
                 font-weight: 300;
                 font-size: 20px;
                 left: 0;
-                color: #fff;
                 display: inline-block;
                 padding-right: 5px;
             }
 
-            .footer .footer-links .link-1:before {
+            .custom-footer .custom-footer-links .link-1:before {
                 content: none;
             }
 
-            /* Footer Right */
+            /* custom-footer Right */
 
-            .footer .footer-right {
+            .custom-footer .custom-footer-right {
                 width: 20%;
             }
 
-            .footer .footer-about {
+            .custom-footer .custom-footer-about {
                 line-height: 20px;
                 color: #92999f;
                 font-size: 13px;
@@ -881,67 +872,65 @@
                 margin: 0;
             }
 
-            .footer .footer-about span {
+            .custom-footer .custom-footer-about span {
                 display: block;
-                color: #ffffff;
-                font-size: 14px;
                 font-weight: bold;
                 margin-bottom: 20px;
             }
 
-            .footer .footer-socials {
+            .custom-footer .custom-footer-socials {
                 margin-top: 25px;
             }
 
-            .footer .footer-socials a {
+            .custom-footer .custom-footer-socials a {
                 display: inline-block;
                 font-size: 35px;
                 cursor: pointer;
-                color: #ffffff;
                 text-align: center;
                 line-height: 35px;
                 margin-right: 5px;
                 margin-bottom: 5px;
             }
 
-            .footer .logo {
+            .custom-footer .logo {
                 max-width: 100px;
                 height: 50px;
-                width: 50px; border-radius: 50%;
+                width: 50px;
+                border-radius: 50%;
                 margin-bottom: 15px;
             }
 
 
             @media (max-width: 800px) {
 
-                .footer {
+                .custom-footer {
                     font: bold 14px sans-serif;
                 }
 
-                .footer .footer-left,
-                .footer .footer-center,
-                .footer .footer-right {
+                .custom-footer .custom-footer-left,
+                .custom-footer .custom-footer-center,
+                .custom-footer .custom-footer-right {
                     display: block;
                     width: 100%;
                     margin-bottom: 40px;
                     text-align: center;
                 }
 
-                .footer .footer-center i {
+                .custom-footer .custom-footer-center i {
                     margin-left: 0;
                 }
 
             }
         </style>
         <div class="bg-menuDark tf-container">
-            <div class="pt-12 pb-12 mt-4 footer" role="contentinfo">
-                <div class="footer-left" itemscope itemtype="http://schema.org/Person" class="h-card">
+            <div class="pt-12 pb-12 mt-4 custom-footer" role="contentinfo">
+                <div class="custom-footer-left" itemscope itemtype="http://schema.org/Person" class="h-card">
                     <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiX_A56Zyh-QLWDJ-1Ugpp732H8h6l0yuCSXPFl2Nf8N0zUb8WKryx4MQPk0gYtsBW5QWHOWVfGwQawGSGjCVIh0vEsih7bqGGEjO7XVI0aGVC5GWVsRMmTLcmrf3_QeLysrpaAZzXIfA375a5ohMaBXh-Pzq3vA-YVLFHiRwkDRrn0aMu_HnnqD7zCr3Vr=s300"
                         alt="Profile Picture" itemprop="image" class="u-logo logo" />
                     <h3 itemprop="name" class="p-name">S David Prince</h3>
                     <p class="p-job-title" itemprop="jobTitle">Web Developer</p>
-                    <nav aria-label="Footer Navigation">
-                        <p class="footer-links">
+                    <nav aria-label="custom-footer Navigation">
+                        <p class="custom-footer-links">
                             <a href="#" itemprop="url" class="link-1">Home</a>
                             <a href="#" itemprop="url">Blog</a>
                             <a href="#" itemprop="url">Projects</a>
@@ -951,7 +940,7 @@
 
                 </div>
 
-                <div class="footer-center">
+                <div class="custom-footer-center">
                     <div itemscope itemtype="http://schema.org/PostalAddress" class="p-address">
                         <i class="fa fa-map-marker" aria-hidden="true"></i>
                         <p>
@@ -971,13 +960,13 @@
                     </div>
                 </div>
 
-                <div class="footer-right">
-                    <p class="footer-about">
+                <div class="custom-footer-right">
+                    <p class="custom-footer-about">
                         <span>About Me</span>
                         Not a web developer, but have a knack for creating stunning websites and applications.
                         Everywhere @sdavidprince
                     </p>
-                    <div class="footer-socials">
+                    <div class="custom-footer-socials">
                         <a href="#" rel="me" aria-label="LinkedIn" itemprop="sameAs" class="u-url"><i
                                 class="fa-brands fa-linkedin"></i></a>
                         <a href="#" rel="me" aria-label="GitHub" itemprop="sameAs" class="u-url"><i
@@ -993,7 +982,7 @@
                         <a href="#" rel="me" aria-label="Instagram" itemprop="sameAs" class="u-url"><i
                                 class="fa-brands fa-instagram"></i></a>
                     </div>
-                    <p class="footer-name">© 2024 S David Prince</p>
+                    <p class="custom-footer-name">© 2024 S David Prince</p>
                 </div>
 
             </div>
